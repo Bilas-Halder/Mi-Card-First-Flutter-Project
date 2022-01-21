@@ -1,5 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 # Mi Card
 
 ## Our Goal
@@ -9,6 +7,12 @@ Now that you've seen how to create a Flutter app entirely from scratch, we're go
 ## My Goal
 
 My goal is to learn how to develop an Android App from scratch as fast as possible. By doing this project i am learning about Stateless widgets on flutter and the layouts.
+
+## Completed App
+![Completed App Screenshot](https://i.ibb.co/bH7jHQJ/Screenshot-1.png)
+
+## [Download](https://drive.google.com/file/d/1w0abPmk4oeGD2TTRCVpMKs6qEEkEvMDO/view?usp=sharing) the APK file
+
 
 ## What you will create
 
